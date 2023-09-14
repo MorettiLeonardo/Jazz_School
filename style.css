@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(to right, #FFE7D1, #FFF2E5);
+}
+
+.btn-default,
+.orange-card {
+    background-color: #ED4D1B;
+}
+
+.yellow-card {
+    background-color: #FF9A3C;
+}
+
+.colored-title {
+    color: #ED4D1B;
+}
+
+#maps-icon{
+    max-width: 25px;
+    max-height: 25px;
+}
