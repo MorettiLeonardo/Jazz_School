@@ -1,2 +1,2 @@
 Landing Page criada com HTML, CSS e Boostrap.
-Deploy: 
+Deploy: https://jazz-school-two.vercel.app/
